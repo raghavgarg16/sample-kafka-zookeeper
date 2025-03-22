@@ -62,5 +62,8 @@ python app.py
 1. **Login Page** - [http://127.0.0.1:5002/](http://127.0.0.1:5002/) *(Static Page)*
 2. **Dashboard Page** - [http://127.0.0.1:5002/dashboard](http://127.0.0.1:5002/dashboard) *(Real-time Logs Display)*
 
+## Screenshots
+![Dashboard Screenshot](frontend/static/images/dashboard.png)
+
 ## Contributing
 Feel free to submit pull requests for improvements or bug fixes.
